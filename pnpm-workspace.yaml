@@ -2,4 +2,5 @@ packages:
   - .
 allowBuilds:
   bcrypt: false
+  unrs-resolver: false
 minimumReleaseAge: 2880
